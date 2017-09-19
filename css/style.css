@@ -157,12 +157,12 @@ body{
 }
 .c-2{
     padding-top: 50px;
-    background: white;
+    background: transparent;
     border-radius: 10px;
     margin-top: 10px;
 }
 .c-1{
-    background: white;
+    background: transparent;
     border-radius: 10px;
 }
 .c-4{
